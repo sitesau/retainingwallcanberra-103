@@ -1,0 +1,22 @@
+{
+  "wheel_id": 433,
+  "structure": "umbrella",
+  "slug": "retainingwallcanberra-103",
+  "project": "retaining-wall-canberra-glossary-add4a170f5d3730f3fc634467be883",
+  "parent_t1_ref": "retainingwallcanberra-151",
+  "node_role": "feeder",
+  "money_target": "retainingwallcanberra.com.au",
+  "primary_kw": "retaining wall canberra glossary",
+  "intended_url": "https://sitesau.github.io/retainingwallcanberra-103/",
+  "tier": "T2",
+  "writeback_nonce": "b174c022dcef6dfa",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-canberra-4511368e4e84f9a2c2beb7d74009effacbff722/",
+      "anchor": "Retaining Wall Canberra: Site Conditions Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
